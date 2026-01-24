@@ -1,6 +1,6 @@
 # Heizungssystem Visualisierung & Steuerung
 
-![Heizungssystem Touchscreen]
+[Heizungssystem Touchscreen]
 
 Ein Touchscreen-fähiges Heizungssteuerungssystem für Kessel und Puffer.  
 Dieses Projekt ermöglicht die Visualisierung, Steuerung und Konfiguration deines Heizsystems direkt über einen 7-Zoll Touchscreen oder Browser.
@@ -44,3 +44,13 @@ Dieses Projekt ermöglicht die Visualisierung, Steuerung und Konfiguration deine
 - PM2 (optional für Autostart)
 
 ### Setup
+
+## 📬 Kontakt & Zusammenarbeit
+
+Dieses Projekt lebt von Ideen und Contributions.  
+Für Fragen, Vorschläge oder Zusammenarbeit erreichst du mich auf  
+**Discord:** `dalo2231
+
+
+## 📄 Lizenz
+Dieses Projekt steht unter der Apache License 2.0.
