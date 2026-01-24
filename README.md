@@ -53,4 +53,9 @@ Für Fragen, Vorschläge oder Zusammenarbeit erreichst du mich auf
 
 
 ## 📄 Lizenz
-Dieses Projekt steht unter der Apache License 2.0.
+
+Dieses Projekt steht unter der **Apache License 2.0**.
+
+❗ Das Projekt darf **nicht als eigenes Werk ausgegeben** werden.  
+Bei Nutzung, Veränderung oder Weiterverteilung ist eine **klare Namensnennung**
+des ursprünglichen Autors (**D1aloO**) erforderlich.
